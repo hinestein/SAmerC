@@ -1,0 +1,2 @@
+# SAmerC
+SAmerC-Monthly
